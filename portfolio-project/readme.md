@@ -32,25 +32,7 @@ PacMen Exercise
 - Card slider displaying recent projects
 
 
-### Homepage with Side Navigation &darr;
-<img src="img/portfolio-main.png" alt="homepage" width="100%" height="auto" />
-<br />
 
-### Responsive Menu &darr;
-<img src="img/portfolio-menu.png" alt="mobile menu" width="100%" height="auto" />
-<br />
-
-### Education Section &darr;
-<img src="img/portfolio-edu.png" alt="education section" width="100%" height="auto" />
-<br />
-
-### Recent Projects &darr;
-<img src="img/portfolio-works.png" alt="projects section" width="100%" height="auto" />
-<br />
-
-### Contact Form &darr;
-<img src="img/portfolio-contact.png" alt="contact form" width="100%" height="auto"/>
-<br />
 
 <!--### Axe beta Results &darr;
 <img src="img/portfolio-axe.png" alt="Axe report" width="100%" height="auto"/>
